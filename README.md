@@ -1,6 +1,5 @@
 # SISTEMA-DE-CONTROL-DE-HORAS-Y-NOMINA-APP
 
-
 ## Descripción del proyecto
 
 El Sistema de Control de Horas y Nómina es un proyecto diseñado para facilitar el registro y control de las horas trabajadas por los empleados y apoyar el proceso de cálculo de nómina.

@@ -1,0 +1,1 @@
+En esta carpeta se almacenará la documentación del Sistema de Control de Horas y Nómina.
